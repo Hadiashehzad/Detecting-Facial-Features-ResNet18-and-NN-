@@ -19,7 +19,7 @@ Detecting the gender of a person through their image, or detecting whether theyâ
 ### Apparel Dataset
 - Source: [Kaggle](https://www.kaggle.com/datasets/kaiska/apparel-dataset)
 - 16,170 labelled images of people wearing dresses of different categories and different colours
-- 
+  
 ![detecting gender, glasses, shirt](https://github.com/user-attachments/assets/0b1153c7-930a-449e-bd85-ce95e92e4a18)
 
 # Preprocessing
